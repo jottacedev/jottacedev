@@ -19,7 +19,12 @@ You can call me Jottacê, I'm a Front End programmer, I'm currently studying and
   🛠️ Learning 🛠️
 <br>
 <br>
+<div class="langs">
 
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jottacedev&layout=compact)
+</div>
+<div class="stats">
 
-![Jottace's stats](https://github-readme-stats.vercel.app/api?username=jottacedev&show_icons=true&theme=transparent)
+  ![Jottace's stats](https://github-readme-stats.vercel.app/api?username=jottacedev&show_icons=true&theme=transparent)
+</div>
