@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-You can call me Jotacê, I'm a Front End programmer, I'm currently studying and creating projects in:
+You can call me Jottacê, I'm a Front End programmer, I'm currently studying and creating projects in:
 <br>
   <li><img align="center" alt="html-logo" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="80px" img/>
   </li>
