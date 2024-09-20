@@ -10,7 +10,7 @@ You can call me Jotacê, I'm a Front End programmer, I'm currently studying and 
 <h3>Connect with me:</h3>
 
 <p>
-  <a href="https://linkedin.com/in/jottace-dev/" target="_blank"> 
+  <a href="https://linkedin.com/in/jottace-dev/"> 
   <img align="center" alt="linkedin-logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="60px" img/> 
   </a>  
 </p>
