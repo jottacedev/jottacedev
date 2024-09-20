@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**jottacedev/jottacedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can call me Jotacê, I'm a Front End programmer, I'm currently studying and creating projects in:
+<br>
+  <li><img align="center" alt="html-logo" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" width="80px" img/>
+  </li>
+  <li><img align="center" alt="css-logo" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" width="68px" img/>
+  </li>
+<br>
+<h3>Connect with me:</h3>
 
-Here are some ideas to get you started:
+<p>
+  <a href="https://linkedin.com/in/jottace-dev/"> 
+  <img align="center" alt="linkedin-logo" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="60px" img/> 
+  </a>  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>Languages and Tools:</h4>
+  🛠️ Learning 🛠️
+<br>
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jottacedev&layout=compact)
+
+![Jottace's stats](https://github-readme-stats.vercel.app/api?username=jottacedev&show_icons=true&theme=transparent)
